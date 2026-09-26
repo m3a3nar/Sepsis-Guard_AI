@@ -3,4 +3,3 @@ pickle
 scikit-learn
 pandas
 numpy
-xgboost
